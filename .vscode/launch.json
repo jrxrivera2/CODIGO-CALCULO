@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "AquaCalc",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/AquaCalc/main.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}/AquaCalc"
+    }
+  ]
+}
